@@ -1,0 +1,33 @@
+remove profile logo
+change text awesome to success
+change dashboard template
+
+sumbong
+upload image or video
+add contact number
+
+
+Schedule of Summons
+Reports
+
+
+dashboard
+delete
+accept - send email / text mess
+
+
+complaints
+send summon
+
+Respondent
+date of summon
+date now
+for:
+
+
+Fixed:
+Upload agreement
+upload image
+remarks
+
+
